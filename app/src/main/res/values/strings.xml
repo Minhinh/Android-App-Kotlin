@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assign!_climbingscoreapp</string>
+    <string name="athlete_name_hint">Enter Athlete\'s Name</string>
+    <string name="enter_athlete_s_name">Enter Athlete\'s Name</string>
+    <string name="time_00_00">Time: 00:00</string>
+    <string name="hold_0">Hold: 0</string>
+    <string name="score_0">Score: 0</string>
+    <string name="climb">Climb</string>
+    <string name="fall">Fall</string>
+    <string name="reset">Reset</string>
+
+</resources>
