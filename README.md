@@ -4,7 +4,9 @@
 
 This Android applicatio is designed to track a climber's scoring process throughout a session. The app provides real-time interaction with a user-friendly interface, supports multiple screen orientations, includes a session timer, and supports bilingual display.
 
+
 ---
+
 
 ## 🚀 Features
 
@@ -17,7 +19,4 @@ This Android applicatio is designed to track a climber's scoring process through
 - 📊 Organized codebase using **MVVM pattern** (with `ScoreViewModel`)
 - 🧪 Thoroughly tested on modern Android emulator (Pixel Fold 8)
 
----
-
-## 🗂 Project Structure
 
